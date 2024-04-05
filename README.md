@@ -1,4 +1,4 @@
-# XF2023
+# 讯飞算法大赛2023<无人船障碍物检测>3rd
 XunFei2023,Competition,unmanned ship detected the barriers.
 
 # 参数情况与结果
@@ -15,3 +15,5 @@ XunFei2023,Competition,unmanned ship detected the barriers.
 4.ultralytics/cfg/default.yaml是配置文件所在处
 
 5.执行train.py将开始训练，模型将保存到runs/detec/train/weights下
+
+6.TTA & ensemble
